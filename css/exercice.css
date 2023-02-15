@@ -2,10 +2,9 @@
 .exercice-flex .container {
   display: flex;
   flex-direction: row;
+  justify-content: flex-start;
 }
-.element-blue {
-  flex-grow: 1;
-}
+
 /* 2. exercice-flex-2 */
 .exercice-flex-2 .container {
   display: flex;
