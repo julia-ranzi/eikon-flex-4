@@ -3,7 +3,9 @@
   display: flex;
   flex-direction: row;
 }
-
+.element-blue {
+  flex-grow: 1;
+}
 /* 2. exercice-flex-2 */
 .exercice-flex-2 .container {
   display: flex;
