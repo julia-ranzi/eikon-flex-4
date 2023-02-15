@@ -5,6 +5,11 @@
 }
 
 /* 2. exercice-flex-2 */
+.exercice-flex-2 .container {
+  display: flex;
+  align-items: center;
+  height: min-content;
+}
 
 /*3. exercice-align-content-1 */
 
